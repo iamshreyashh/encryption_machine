@@ -1,4 +1,4 @@
-# ENCRYPTION_MACHINE,
+# ENCRYPTION_MACHINE 
 * This project is a basic text encryption software developed using python. Here i use fernet(symmetric cryptographic algorithm) using cryptography algorithm. 
 # How does it works?
  * It simply asks user to enter the file name and the user must take into account of saving that file into the folder itself in which the code is saved. otherwise errors might be encountered 
